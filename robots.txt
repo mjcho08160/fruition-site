@@ -1,15 +1,4 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-Image
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
 User-agent: *
 Allow: /
 
+Sitemap:https://ksacsm.vercel.app/sitemap.xml
